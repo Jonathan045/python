@@ -1,0 +1,1 @@
+print(sorted([int(i) for i in input(f'Please, enter the numbers:').split()], reverse=True))
